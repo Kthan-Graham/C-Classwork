@@ -1,0 +1,10 @@
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\bin\Debug\AverageCalc.exe.config
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\bin\Debug\AverageCalc.exe
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\bin\Debug\AverageCalc.pdb
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\obj\Debug\AverageCalc.csprojAssemblyReference.cache
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\obj\Debug\AverageCalc.Form1.resources
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\obj\Debug\AverageCalc.Properties.Resources.resources
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\obj\Debug\AverageCalc.csproj.GenerateResource.cache
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\obj\Debug\AverageCalc.csproj.CoreCompileInputs.cache
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\obj\Debug\AverageCalc.exe
+C:\Users\kthan\Desktop\AverageCalc\AverageCalc\obj\Debug\AverageCalc.pdb

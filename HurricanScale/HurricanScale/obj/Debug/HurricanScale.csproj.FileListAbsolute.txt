@@ -1,0 +1,10 @@
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\bin\Debug\HurricanScale.exe.config
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\bin\Debug\HurricanScale.exe
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\bin\Debug\HurricanScale.pdb
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\obj\Debug\HurricanScale.csprojAssemblyReference.cache
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\obj\Debug\HurricanScale.Properties.Resources.resources
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\obj\Debug\HurricanScale.csproj.GenerateResource.cache
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\obj\Debug\HurricanScale.csproj.CoreCompileInputs.cache
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\obj\Debug\HurricanScale.exe
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\obj\Debug\HurricanScale.pdb
+C:\Users\kthan\Desktop\HurricanScale\HurricanScale\obj\Debug\HurricanScale.Form1.resources
